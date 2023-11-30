@@ -38,6 +38,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajib-sadhu&show_icons=true) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajib-sadhu&show_icons=true&locale=en" alt="rajib-sadhu" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajib-sadhu&" alt="rajib-sadhu" /></p>
