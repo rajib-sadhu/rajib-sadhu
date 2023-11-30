@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/D5616AQGI2FoC-lwgUg/profile-displaybackgroundimage-shrink_350_1400/0/1686047706367?e=1706745600&v=beta&t=yMVtCDNpb9WPtYMaUcYdn9Fue1cTh2fy7gqS5jY-1bw))]([https://rishavchanda.io](https://www.linkedin.com/in/rajibsadhu/))
+
 <h1 align="center">Hi 👋, I'm Rajib Sadhu</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
